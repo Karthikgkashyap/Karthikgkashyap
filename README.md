@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Karthikgkashyap
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- 👋 Hi, I’m Karthik G Kashyap
 - 👀 I’m interested in web development
 - 🌱 I’m currently pursuing bachelor's degree
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin: https://www.linkedin.com/in/karthik-g-kashyap-640352276/
+- 📫 How to reach me linkedin: https://www.linkedin.com/in/karthikgkashyap 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: just a normal tech learner/ new to programming/ just another noob
 
