@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Career Guidance AI Chatbot</title>
+  <link rel="stylesheet" href="/static/css/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Career Guidance AI Chatbot</h1>
+      <p>Get personalized role matches, skill gap analysis, courses, and resume tips.</p>
+    </header>
+
+    <section class="grid">
+      <div class="card">
+        <h2>Quick Assessment</h2>
+        <form id="assessment-form">
+          <label>Interests
+            <textarea name="interests" placeholder="e.g., building apps, data, healthcare"></textarea>
+          </label>
+          <label>Skills
+            <textarea name="skills" placeholder="e.g., Python, SQL, React"></textarea>
+          </label>
+          <label>Education
+            <input name="education" placeholder="e.g., BS Computer Science" />
+          </label>
+          <label>Experience
+            <textarea name="experience" placeholder="e.g., 2 years as QA, open-source contributions"></textarea>
+          </label>
+          <button type="submit">Assess</button>
+        </form>
+        <pre id="assessment-output" class="output"></pre>
+      </div>
+
+      <div class="card">
+        <h2>Skill-to-Role Match</h2>
+        <form id="match-form">
+          <label>Skills
+            <input name="skills" placeholder="e.g., Python, ML, Tableau" />
+          </label>
+          <label>Interests (optional)
+            <input name="interests" placeholder="e.g., fintech, education" />
+          </label>
+          <label>Top K
+            <input name="top_k" type="number" value="5" min="1" max="20" />
+          </label>
+          <button type="submit">Find Matches</button>
+        </form>
+        <pre id="match-output" class="output"></pre>
+      </div>
+
+      <div class="card">
+        <h2>Resume Feedback</h2>
+        <form id="resume-form">
+          <label>Paste Resume Text
+            <textarea name="resume_text" placeholder="Paste your resume..." rows="10"></textarea>
+          </label>
+          <button type="submit">Get Feedback</button>
+        </form>
+        <pre id="resume-output" class="output"></pre>
+      </div>
+
+      <div class="card">
+        <h2>Chat</h2>
+        <div id="chat-box" class="chat-box"></div>
+        <form id="chat-form">
+          <input name="message" placeholder="Say hi or ask for help" />
+          <button type="submit">Send</button>
+        </form>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Occupations</h2>
+      <div id="occupations-list"></div>
+    </section>
+  </div>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

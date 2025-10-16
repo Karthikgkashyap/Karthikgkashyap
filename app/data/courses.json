@@ -1,0 +1,18 @@
+{
+  "python": [
+    {"title": "Python for Everybody", "provider": "Coursera", "url": "https://www.coursera.org/learn/python"},
+    {"title": "Automate the Boring Stuff", "provider": "Udemy", "url": "https://www.udemy.com/course/automate/"}
+  ],
+  "sql": [
+    {"title": "Intro to SQL", "provider": "Khan Academy", "url": "https://www.khanacademy.org/computing/computer-programming/sql"}
+  ],
+  "machine learning": [
+    {"title": "Machine Learning Specialization", "provider": "Coursera", "url": "https://www.coursera.org/specializations/machine-learning-introduction"}
+  ],
+  "docker": [
+    {"title": "Docker and Containers", "provider": "Udacity", "url": "https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991"}
+  ],
+  "kubernetes": [
+    {"title": "Kubernetes Basics", "provider": "Kubernetes.io", "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/"}
+  ]
+}

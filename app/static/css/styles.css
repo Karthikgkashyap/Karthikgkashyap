@@ -1,0 +1,18 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background: #0b1020; color: #eaeefb; }
+.container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+header { margin-bottom: 16px; }
+h1 { margin: 0 0 8px 0; font-size: 28px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+.card { background: #151c39; border: 1px solid #2a356b; border-radius: 12px; padding: 16px; }
+label { display: block; margin: 8px 0; font-size: 14px; }
+input, textarea, button { width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid #2a356b; background: #0f1531; color: #eaeefb; }
+button { cursor: pointer; background: #4050d6; border: none; margin-top: 8px; }
+button:hover { background: #5160f0; }
+.output { background: #0f1531; border: 1px dashed #2a356b; border-radius: 8px; padding: 12px; white-space: pre-wrap; max-height: 280px; overflow: auto; }
+.chat-box { height: 260px; overflow: auto; border: 1px solid #2a356b; border-radius: 8px; padding: 8px; background: #0f1531; margin-bottom: 8px; }
+.chat-msg { margin: 6px 0; }
+.chat-msg.user { color: #b8ffb8; }
+.chat-msg.assistant { color: #b8d8ff; }
+.occupation { padding: 8px; border-bottom: 1px dashed #2a356b; }
+.occupation:last-child { border-bottom: none; }

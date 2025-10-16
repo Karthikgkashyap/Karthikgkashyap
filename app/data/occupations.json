@@ -1,0 +1,52 @@
+[
+  {
+    "id": "software_engineer",
+    "name": "Software Engineer",
+    "description": "Designs, develops, tests, and maintains software applications and systems.",
+    "required_skills": ["python", "git", "algorithms", "databases"],
+    "optional_skills": ["docker", "kubernetes", "aws", "react"],
+    "typical_education": "BS in Computer Science or related field",
+    "avg_salary_usd": 120000,
+    "growth_outlook": "High"
+  },
+  {
+    "id": "data_scientist",
+    "name": "Data Scientist",
+    "description": "Analyzes complex data to extract insights and build predictive models.",
+    "required_skills": ["python", "statistics", "machine learning", "sql"],
+    "optional_skills": ["tensorflow", "pytorch", "spark", "dashboards"],
+    "typical_education": "BS/MS in Data Science, Statistics, or CS",
+    "avg_salary_usd": 130000,
+    "growth_outlook": "High"
+  },
+  {
+    "id": "ui_ux_designer",
+    "name": "UI/UX Designer",
+    "description": "Designs user interfaces and experiences focused on usability and aesthetics.",
+    "required_skills": ["figma", "wireframing", "user research", "prototyping"],
+    "optional_skills": ["css", "html", "design systems", "accessibility"],
+    "typical_education": "BA in Design, HCI, or related",
+    "avg_salary_usd": 100000,
+    "growth_outlook": "Medium"
+  },
+  {
+    "id": "cloud_devops_engineer",
+    "name": "Cloud/DevOps Engineer",
+    "description": "Builds and operates cloud infrastructure and CI/CD pipelines.",
+    "required_skills": ["linux", "aws", "terraform", "ci/cd"],
+    "optional_skills": ["kubernetes", "docker", "monitoring", "sre"],
+    "typical_education": "BS in CS or related field",
+    "avg_salary_usd": 125000,
+    "growth_outlook": "High"
+  },
+  {
+    "id": "product_manager",
+    "name": "Product Manager",
+    "description": "Leads product strategy, roadmap, and execution across teams.",
+    "required_skills": ["communication", "prioritization", "analytics", "roadmapping"],
+    "optional_skills": ["sql", "a/b testing", "ux research"],
+    "typical_education": "BS/BA; MBA preferred",
+    "avg_salary_usd": 135000,
+    "growth_outlook": "Medium"
+  }
+]
