@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/karthikgkashyap 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: just a normal tech learner/ new to programming
+- ⚡ Fun fact: just a normal tech learner/ New to programming
 
 <!---
 Karthikgkashyap/Karthikgkashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
