@@ -138,17 +138,6 @@ A regression-based machine-learning project to estimate house prices from proper
 - Introduction to UI/UX — Great Learning (2025)
 - AWS Training Certification — Amazon Web Services (2025)
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karthikgkashyap&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikgkashyap&layout=compact&hide_border=true" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Karthikgkashyap&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
 ## 📬 Connect
 
 - **LinkedIn:** [linkedin.com/in/karthikgkashyap](https://www.linkedin.com/in/karthikgkashyap/)
