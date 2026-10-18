@@ -1,8 +1,8 @@
-# Hi, I'm Karthik G K Kashyap 👋
+# Hi, I'm Karthik G Kashyap 👋
 
 **Aspiring Software Developer | Java • Python • Flask • SQL**
 
-BCA graduate interested in building practical software, web applications, and machine-learning projects.
+MCA Student and BCA graduate interested in building practical software, web applications, and machine-learning projects.
 
 - 💻 **Languages:** Java, Python, JavaScript, SQL
 - 🌐 **Web:** HTML, CSS, Flask
